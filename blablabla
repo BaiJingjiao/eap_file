@@ -1,0 +1,37 @@
+jenkins是基于java开发的一款持续集成工具
+Monkey是google提供的一个命令行工具，可以运行在模拟器或者物理设备中。monkey通过向系统发送按钮、手势、触摸屏输入等伪随机用户事件，对软件进行稳定性与压力测试。
+Macaca 是一套自动化解决方案。她贯穿研发流程各环节，提供本地测试工具，同时也涵盖集成平台。支持移动端Native, Hybrid, 纯Web多种产品类型，同时也支持PC端。
+Macaca 底层驱动模块，客户端工具，持续集成平台由 Macaca 团队自主研发。目前的团队成员都来自 Alipay，越来越多的模块正在逐步开放。github/macacajs
+
+Test Automation Frameworks - Stuff you must Know!
+http://www.guru99.com/quick-test-professional-qtp-tutorial-34.html
+
+Appium国内下载地址 ： http://pan.baidu.com/s/1jGvAISu
+最新更新的是： appium-1.5.3.dmg & AppiumForWindows-1.4.16.1.zip & AppiumDesktop_1.0.0_beta.2
+TesterHome官方百度网盘： http://pan.baidu.com/s/1jGvAISu
+Appium各版本更新日志： https://github.com/appium/appium/releases/ 以及 https://discuss.appium.io/
+Appium官方下载地址： https://bitbucket.org/appium/appium.app/downloads/
+
+Appium官方文档（中文版）
+
+旧版地址 https://github.com/appium/appium/tree/master/docs/old/cn （感谢seveniruby、monkey、lihuazhang、FredZero、pinghailinfeng、niweyzhuce等人不辞辛苦的翻译）
+新版地址 https://github.com/appium/appium/tree/master/docs/cn （感谢doctorq、chenhengjie123、anikikun、xuxu、tspring、shixue33等人不辞辛苦的翻译）
+Appium各个语言下用到的库的地址
+
+Ruby http://rubygems.org/gems/appium_lib
+Python https://pypi.python.org/pypi/Appium-Python-Client
+Java https://search.maven.org/#search%7Cga%7C1%7Cg%3Aio.appium%20a%3Ajava-client
+JavaScript https://www.npmjs.org/package/wd
+PHP https://github.com/appium/php-client
+C# http://www.nuget.org/packages/Appium.WebDriver/
+RobotFramework https://github.com/jollychang/robotframework-appiumlibrary
+Appium各个语言下用到的库的相关介绍
+
+Ruby https://github.com/appium/ruby_lib
+Python https://github.com/appium/python-client
+Java https://github.com/appium/java-client
+JavaScript (Node.js) https://github.com/admc/wd
+PHP https://github.com/appium/php-client
+C# (.NET) https://github.com/appium/appium-dotnet-driver
+RobotFramework https://github.com/jollychang/robotframework-appiumlibrary
+
