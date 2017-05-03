@@ -1,3 +1,13 @@
+测试框架：JUnit、TestNG、Cucumber、ScalaTest、JBehave等
+
+推荐一个java系的工具链。UI工具用selenide，注意不是selenium。report框架allure，断言框架assert-core和assert-db。基础测试框架testng或junit。
+Selenide是一个由Selenium WebDriver驱动的自动化测试框架，具备以下优点：
+
+简练的流式API
+支持Ajax稳定性测试
+强大的真正页面对象选择器
+使用Selenium无需考虑怎样关闭浏览器、处理超时和StaleElement异常、搜索相关的日志信息以及调试测试代码。只需要关心业务逻辑，剩下的教给Selenide完成就好！
+
 jenkins是基于java开发的一款持续集成工具
 Monkey是google提供的一个命令行工具，可以运行在模拟器或者物理设备中。monkey通过向系统发送按钮、手势、触摸屏输入等伪随机用户事件，对软件进行稳定性与压力测试。
 Macaca 是一套自动化解决方案。她贯穿研发流程各环节，提供本地测试工具，同时也涵盖集成平台。支持移动端Native, Hybrid, 纯Web多种产品类型，同时也支持PC端。
@@ -5,6 +15,8 @@ Macaca 底层驱动模块，客户端工具，持续集成平台由 Macaca 团�
 
 Test Automation Frameworks - Stuff you must Know!
 http://www.guru99.com/quick-test-professional-qtp-tutorial-34.html
+
+写个脚本跑起来很简单。但是按产品业务构建起一个由数百甚至数千个脚本组成的自动化测试项目就完全不是一回事了。脚本的稳定性，可维护性，可扩展性,业务上的拆分，执行的性能，报表的展示，日志的展示，异常捕获与处理，分布式运行，与数据库和各种底层存储介质的通信等等都是要考虑的
 
 Appium国内下载地址 ： http://pan.baidu.com/s/1jGvAISu
 最新更新的是： appium-1.5.3.dmg & AppiumForWindows-1.4.16.1.zip & AppiumDesktop_1.0.0_beta.2
