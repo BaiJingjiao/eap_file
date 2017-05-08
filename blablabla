@@ -1,5 +1,12 @@
 测试框架：JUnit、TestNG、Cucumber、ScalaTest、JBehave等
 
+1）线性脚本
+2）结构化脚本
+3）共享脚本
+4）数据驱动
+5）关键字驱动
+6）混合驱动
+
 推荐一个java系的工具链。UI工具用selenide，注意不是selenium。report框架allure，断言框架assert-core和assert-db。基础测试框架testng或junit。
 Selenide是一个由Selenium WebDriver驱动的自动化测试框架，具备以下优点：
 
