@@ -6,3 +6,4 @@ https://sourceforge.net/projects/hsqldb/?source=typ_redirect
 https://sourceforge.net/projects/jackcess/?source=typ_redirect
 
 https://github.com/mikeal/sequest
+npm install http-server -g
