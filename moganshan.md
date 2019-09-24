@@ -1,3 +1,7 @@
+https://zh.wikipedia.org/wiki/%E8%8E%AB%E5%B9%B2%E5%B1%B1
+
+https://zh.wikipedia.org/wiki/%E8%8E%AB%E5%B9%B2%E5%B1%B1%E5%88%A5%E5%A2%85%E7%BE%A4
+
 莫干山，位于浙江省德清县，因春秋时期莫邪和干将在此铸剑而得名。
 
 山名来自春秋时期莫邪、干将夫妇二人为吴王阖闾(hé lǘ)铸剑于此的古代传说。
